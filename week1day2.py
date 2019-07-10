@@ -1,10 +1,10 @@
-#def him():
-    #for a in ["*****","*****","*****","*****","*****"]:
-     # print(a)
-    #return a
+def him():
+    for a in ["*****","*****","*****","*****","*****"]:
+      print(a)
+    return a
     
     
-#print(him())
+print(him())
 
 
 
